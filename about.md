@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Bienvenidos!
 
-### More Information
+### SUERTE EN FINALES
 
-A place to include any other types of information that you'd like to include about yourself.
+<p>Este Blog fue creado con la intensión de darle únicamente la informacion imporante a los estudiantes del <a href="www.mty.itesm.mx">Tec</a></p>
+<p>De la misma manera, busca instruir al alumnado con random facts que pueden cambiar tu perspectiva golbal.</p>
 
-### Contact me
+### Contactanos
 
-[email@domain.com](mailto:email@domain.com)
+[elblogdelmae@gmail.com](mailto:elblogdelmae@gmail.com)
